@@ -1,0 +1,11 @@
+{
+  "name": "jogofelipedeschamps",
+  "version": "1.0.0",
+  "description": "Aprendendon a construir jogos multiplayer",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Deivid Daniel Martins",
+  "license": "ISC"
+}
